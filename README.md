@@ -88,9 +88,4 @@ logger?.despose()
 
 ## Requirements
 
-## Installation
-
-```ruby
-pod 'JKOLogger', :git => 'http://gitlab.jkopay.com.tw/Source/IOS/JKOLogger.git'
-```
 
